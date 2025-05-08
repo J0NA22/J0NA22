@@ -1,30 +1,26 @@
 <h1 align="center">Hi 👋, I'm Jona</h1>
 <h3 align="center">A passionate frontend developer from Nicaragua</h3>
-<h3 align="center">👋 ¡Hola! Soy Jona, un estudiante y desarrollador en formación apasionado por crear soluciones tecnológicas útiles y bien estructuradas.
+
+👋 ¡Hola! Soy Jona, un estudiante y desarrollador en formación apasionado por crear soluciones tecnológicas útiles y bien estructuradas.
 
 💡 Actualmente trabajo en el desarrollo de sistemas web y aplicaciones con React, JavaScript, TypeScript y Next.js, integrando bases de datos y servicios para mejorar la experiencia del usuario y la eficiencia del backend.
 
 🚀 He trabajado en proyectos académicos como un sistema de gestión de entregas para una empresa de paquetería, simulaciones físicas con Unity 3D, y experimentos aplicados en hardware y estadística.
 
 🛠️ Tecnologías y herramientas que uso:
-
-Frontend: React, Tailwind, TypeScript
-
-Backend: .NET, Node.js, APIs REST
-
-Base de datos: SQL Server
-
-Otros: Unity, Git, Visual Studio Code, Figma
+- Frontend: React, Tailwind, TypeScript  
+- Backend: .NET, Node.js, APIs REST  
+- Base de datos: SQL Server  
+- Otros: Unity, Git, Visual Studio Code, Figma
 
 🎯 Mis objetivos actuales son:
+- Mejorar mis habilidades en desarrollo full-stack  
+- Contribuir a proyectos de código abierto  
+- Diseñar interfaces responsivas y funcionales
 
-Mejorar mis habilidades en desarrollo full-stack
+📬 Siempre abierto a aprender, colaborar y mejorar.
 
-Contribuir a proyectos de código abierto
 
-Diseñar interfaces responsivas y funcionales
-
-📬 Siempre abierto a aprender, colaborar y mejorar.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=j0na22&label=Profile%20views&color=0e75b6&style=flat" alt="j0na22" /> </p>
 
